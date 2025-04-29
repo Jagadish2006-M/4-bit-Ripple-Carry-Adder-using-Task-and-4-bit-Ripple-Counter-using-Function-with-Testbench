@@ -85,6 +85,8 @@ module ripple_carry_adder_4bit_tb;
     end
 
 endmodule
+![Ripple counter](https://github.com/user-attachments/assets/48965aa0-b6f5-41cb-b881-9a982707727a)
+
 
 
 // Verilog Code ripple counter
