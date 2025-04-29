@@ -112,6 +112,7 @@ module ripple_counter_4bit (
     end
 
 endmodule
+![Uploading Ripple counter.png…]()
 
 // TestBench
 
